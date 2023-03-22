@@ -3,50 +3,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 <div style="background:#2a2a2a;color:#fff;height:100%;width:100%;font-family: 'Fira Code';padding-left:20px;">
-<style>
-summary:focus,
-summary:active
-{
-  outline:0;
-}
-summary:hover
-{
-  transition:.7s all;
-  background:#535353;
-  letter-spacing:0.5px;
-}
-summary
-{
-  cursor:pointer;
-}
-a
-{
-color:skyblue;
-}
-a:hover
-{
-   text-decoration: underline;
-   text-decoration-style: double;
-   transition:.8s all;
-   background:#000;
-}
-details a:hover
-{
-  transition:.8s all;
-}
-a:focus,
-a:active
-{
-  outline:0;
-}
-</style>
 
 ***
 
 
 # Description
 
-***
+
 A full-stack web developer should have skills in both front-end design/development and back-end/server coding. We can expect a full-stack developer to design, code, implement and maintain a fully functional modern interactive website on his/her own.
 
 Here I shared about technologies,frameworks,online platform,themes,APIs and so on...
